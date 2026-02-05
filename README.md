@@ -114,9 +114,9 @@ npx expo start
 
 ---
 
-<div align="center">
-👤 The Architect
+## 👤 The Architect
 <!-- 💳 Premium Business Card Wrapper -->
+<div align="center">
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td align="center">
