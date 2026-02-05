@@ -1,95 +1,86 @@
 <div align="center">
 
-<!-- Hero Banner Premium -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3843FF&height=280&section=header&text=ROUTINER&fontSize=80&fontAlignY=35&fontColor=ffffff" width="100%"/>
+<!-- Banner Atas: Animasi Ombak Elegan -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3843FF&height=300&section=header&text=ROUTINER&fontSize=90&fontAlignY=38&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=35&pause=1000&color=3843FF&center=true&vCenter=true&width=600&lines=Master+Your+Consistency;Premium+Habit+Tracker;Seamless+Cloud+Sync;Aesthetic+Data+Visualization" alt="Typing SVG" />
+<br/>
 
+<!-- Logo Utama: Diperbesar & Bayangan Halus -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ranggis/Api-Image/main/favicon.png" width="120" style="filter: drop-shadow(0 0 20px rgba(56, 67, 255, 0.4)); border-radius: 30px;" />
+  <img src="https://raw.githubusercontent.com/Ranggis/Api-Image/main/routiner-logo.png" width="200" style="filter: drop-shadow(0 15px 30px rgba(56, 67, 255, 0.3));" />
 </p>
 
-# Routiner: Elite Habit Ecosystem
-**Transformasi Kebiasaan Menjadi Prestasi dengan UI/UX Berstandar Dunia**
-
----
+<!-- Typing Animation: Fokus pada Value -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1500&color=3843FF&center=true&vCenter=true&width=500&lines=The+Elite+Habit+Ecosystem;Consistency+Redefined;Built+for+Performance" alt="Typing SVG" />
 
 <p align="center">
-  <a href="#-fitur-utama">
-    <img src="https://img.shields.io/badge/EXPLORE_FEATURES-0F172A?style=for-the-badge&logo=rocket&logoColor=ffffff&labelColor=3843FF&color=0F172A" />
-  </a>
-  <a href="https://github.com/Ranggis/routiner/stargazers">
-    <img src="https://img.shields.io/github/stars/Ranggis/routiner?style=for-the-badge&color=3843FF&labelColor=0F172A&logo=github" />
-  </a>
+  <b>Aplikasi pelacak rutinitas premium yang menggabungkan kesederhanaan visual dengan kekuatan teknologi cloud.</b>
 </p>
 
-<img src="https://img.shields.io/badge/React_Native-v0.7x-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Firebase-Integrated-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/SQLite-Offline_First-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-v5-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<!-- Badges Minimalis -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-1.0.0--Beta-3843FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Platform-iOS_%7C_Android-0F172A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Engine-React_Native-61DAFB?style=flat-square&logo=react" />
+</p>
 
 </div>
 
-## 📌 Visi Proyek
-**Routiner** bukan sekadar pelacak kebiasaan biasa. Ini adalah asisten produktivitas premium yang menggabungkan **Psikologi Kebiasaan** dengan **Teknologi Modern**. Dibangun di atas fondasi React Native, Routiner menawarkan antarmuka yang sangat responsif, sistem poin yang kompetitif, dan arsitektur data yang cerdas untuk memastikan setiap kemajuan Anda tercatat, baik saat online maupun offline.
+---
+
+## 💎 Filosofi Desain
+**Routiner** lahir dari kebutuhan akan alat produktivitas yang tidak mengganggu fokus pengguna. Setiap elemen diletakkan dengan presisi untuk menciptakan harmoni antara fungsionalitas dan estetika. 
+
+- **Clean Interface:** Mengurangi beban kognitif dengan navigasi yang intuitif.
+- **Fluid Motion:** Animasi transisi yang memberikan feedback instan dan memuaskan.
+- **Data Clarity:** Visualisasi statistik yang mudah dipahami dalam sekali lirik.
 
 ---
 
-## 📸 Antarmuka Eksklusif
-Setiap piksel dirancang untuk memotivasi. Transisi antar layar dioptimalkan menggunakan *Reanimated* untuk pengalaman yang benar-benar *seamless*.
+## ✨ Pengalaman Pengguna (GIF)
+Antarmuka yang responsif didukung oleh *Reanimated* dan *Gesture Handler* untuk interaksi kelas atas.
 
 <div align="center">
-  <br/>
-  <p align="center">
-    <img 
-      src="https://raw.githubusercontent.com/Ranggis/Api-Image/main/RoutinerShowcase.gif" 
-      width="320" 
-      style="border-radius: 45px; border: 10px solid #0F172A; filter: drop-shadow(0 25px 60px rgba(56, 67, 255, 0.4));"
-    />
-  </p>
-  <br/>
-  <kbd><b>Verified Premium Experience v1.0.0</b></kbd>
+  <img 
+    src="https://raw.githubusercontent.com/Ranggis/Api-Image/main/RoutinerShowcase.gif" 
+    width="340" 
+    style="border-radius: 50px; border: 1px solid #E2E8F0; box-shadow: 0 30px 60px rgba(0,0,0,0.12);"
+  />
 </div>
 
 ---
 
-## 🚀 Fitur Unggulan
+## 🛠️ Arsitektur Teknologi
+Sistem cerdas yang menjaga data Anda tetap aman dan dapat diakses kapan saja.
 
-| Fitur | Deskripsi | Status |
-| :--- | :--- | :--- |
-| 🔄 **Hybrid Sync Engine** | Sinkronisasi dua arah antara **SQLite (Lokal)** dan **Firebase (Cloud)**. | `Stabil` |
-| 👆 **Gesture-Driven Cards** | Swipe ke kanan untuk *Done*, ke kiri untuk *Fail/Skip* dengan feedback haptik. | `Stabil` |
-| 📊 **Victory Analytics** | Visualisasi progres mingguan dan bulanan yang elegan. | `Stabil` |
-| 🏆 **Global Leaderboard** | Bersaing dengan user lain melalui akumulasi poin prestasi. | `Stabil` |
-| 🌗 **Dynamic Mood Tracker** | Pantau korelasi antara kebiasaan harian dan kondisi emosional Anda. | `Stabil` |
-
----
-
-## 🛠️ Tech Stack & Architecture
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,firebase,sqlite,vscode,git,github,figma" />
-</div>
-
-- **Core:** React Native (SDK 50+) dengan TypeScript
-- **Database:** Firebase Firestore (Real-time Cloud) & SQLite (Local Storage)
-- **Navigation:** Expo Router (File-based routing)
-- **Charts:** Victory Native (Classic Engine)
-- **Gestures:** React Native Gesture Handler (Swipeable Components)
-- **Animation:** Reanimated v3
+#### **Hybrid Data Management**
+| Core System | Integration |
+| :--- | :--- |
+| **Cloud Service** | Firebase Firestore (Real-time) |
+| **Local Storage** | SQLite (Offline-First Capability) |
+| **Navigation** | Expo Router v3 (Strict Typing) |
+| **Visualization** | Victory Native (Industrial Charts) |
 
 ---
 
-## 🏗️ Arsitektur Data: Sync Engine Logic
-Routiner mengimplementasikan arsitektur **Offline-First**. Data disimpan secara instan ke SQLite lokal sebelum di-antrekan ke Firebase untuk memastikan aplikasi tetap responsif meskipun koneksi internet tidak stabil.
+## 🚀 Fitur Utama
+
+- **Otomatisasi Sinkronisasi:** Logika cerdas yang menyatukan data SQLite lokal ke Cloud secara instan saat terhubung internet.
+- **Interaksi Berbasis Gestur:** Kartu habit yang dapat digeser untuk efisiensi eksekusi harian.
+- **Analisis Mendalam:** Grafik mingguan yang memantau perkembangan kebiasaan secara akurat.
+- **Sistem Prestasi:** Akumulasi poin yang mendorong motivasi melalui Leaderboard global.
+
+---
+
+## 🏗️ Implementasi Kode (Clean Logic)
+Contoh penanganan sinkronisasi data yang efisien:
 
 ```typescript
-// Konsep Logic Sinkronisasi
-if (isOnline) {
-  const localUnsynced = await db.getUnsyncedHabits(); // Ambil data dari SQLite
-  await firebase.batchUpdate(localUnsynced);         // Push ke Cloud
-  await db.markAsSynced();                           // Tandai di Lokal
-} else {
-  await db.saveLocally();                            // Simpan di Lokal (sync_status: 0)
-}
+// Core Sync Handler
+const synchronizeData = async (localData) => {
+  const connection = await checkConnectivity();
+  if (connection.isOnline) {
+    return await firebase.sync(localData); // Push to cloud
+  }
+  return await sqlite.queue(localData); // Store in local queue
+};
