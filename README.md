@@ -119,8 +119,7 @@ npx expo start
 <div align="center">
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
-<td align="center">
-<div style="background: #ffffff; border-radius: 30px; padding: 40px; border: 1px solid #E2E8F0; width: 550px; box-shadow: 0 20px 40px rgba(0,0,0,0.05);">
+  
 <!-- Card Header Line -->
 <div style="height: 6px; width: 60px; background: #3843FF; border-radius: 10px; margin-bottom: 25px;"></div>
 
