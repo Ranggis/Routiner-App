@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=35&pause=1000&color=3843FF&center=true&vCenter=true&width=600&lines=Master+Your+Consistency;Premium+Habit+Tracker;Seamless+Cloud+Sync;Aesthetic+Data+Visualization" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ranggis/Api-Image/main/routiner-logo.png" width="120" style="filter: drop-shadow(0 0 20px rgba(56, 67, 255, 0.4)); border-radius: 30px;" />
+  <img src="https://raw.githubusercontent.com/Ranggis/Api-Image/main/favicon.png" width="120" style="filter: drop-shadow(0 0 20px rgba(56, 67, 255, 0.4)); border-radius: 30px;" />
 </p>
 
 # Routiner: Elite Habit Ecosystem
