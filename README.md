@@ -84,3 +84,40 @@ const synchronizeData = async (localData) => {
   }
   return await sqlite.queue(localData); // Store in local queue
 };
+```
+
+---
+
+## 📥 Panduan Instalasi
+Hanya butuh beberapa detik untuk memulai:
+Clone & Enter
+code
+```Bash
+git clone https://github.com/Ranggis/routiner.git && cd routiner
+Install & Run
+code
+Bash
+npm install && npx expo start
+```
+
+---
+
+## 👤 Arsitek Proyek
+Dikembangkan secara mandiri dengan visi menciptakan standar baru dalam aplikasi habit tracker.
+<div align="center">
+<br/>
+<img src="https://raw.githubusercontent.com/Ranggis/Api-Image/main/ranggisss.jpg" width="130" style="border-radius: 65px; border: 3px solid #3843FF;" />
+<br/>
+<br/>
+<img src="https://img.shields.io/badge/Mochammad_Ranggis-Product_Engineer-3843FF?style=for-the-badge" />
+<br/>
+<font size="3">Universitas Nusa Putra</font>
+<br/><br/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</div>
+<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3843FF&height=100&section=footer" width="100%"/>
+<p><i>"Membangun rutinitas hari ini, untuk kualitas hidup esok hari."</i></p>
+</div>
