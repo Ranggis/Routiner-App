@@ -114,8 +114,7 @@ npx expo start
 
 ---
 
-<div align="center">
-👤 The Architect
+## 👤 The Architect
 <!-- Card Header Line -->
 <div style="height: 6px; width: 60px; background: #3843FF; border-radius: 10px; margin-bottom: 25px;"></div>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
