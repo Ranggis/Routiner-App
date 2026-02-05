@@ -74,12 +74,11 @@ Sistem cerdas yang menjaga data Anda tetap aman dan dapat diakses kapan saja.
 ## 📥 Panduan Instalasi
 Hanya butuh beberapa detik untuk memulai:
 Clone & Enter
-code
 ```Bash
 git clone https://github.com/Ranggis/routiner.git && cd routiner
 Install & Run
-code
-Bash
+```
+```Bash
 npm install && npx expo start
 ```
 
