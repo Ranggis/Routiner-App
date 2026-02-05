@@ -7,7 +7,7 @@
 
 <!-- Logo Utama: Diperbesar & Bayangan Halus -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ranggis/Api-Image/main/routiner-logo.png" width="200" style="filter: drop-shadow(0 15px 30px rgba(56, 67, 255, 0.3));" />
+  <img src="https://raw.githubusercontent.com/Ranggis/Api-Image/main/favicon.png" width="200" style="filter: drop-shadow(0 15px 30px rgba(56, 67, 255, 0.3));" />
 </p>
 
 <!-- Typing Animation: Fokus pada Value -->
