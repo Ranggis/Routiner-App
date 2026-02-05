@@ -1,98 +1,97 @@
 <div align="center">
 
-<!-- Banner Atas: Elevasi Maksimal -->
+<!-- Animated Premium Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3843FF&height=320&section=header&text=ROUTINER&fontSize=95&fontAlignY=38&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 <br/>
 
-<!-- Hero Image: Ultra Scale Logo dengan Efek Kedalaman -->
+<!-- Ultra Scale Glowing Logo -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ranggis/Api-Image/main/favicon.png" width="240" style="filter: drop-shadow(0 30px 60px rgba(56, 67, 255, 0.5));" />
+  <img src="https://raw.githubusercontent.com/Ranggis/Api-Image/main/favicon.png" width="240" style="filter: drop-shadow(0 25px 50px rgba(56, 67, 255, 0.4));" />
 </p>
 
-<!-- Typing SVG: Kalimat yang lebih kuat -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=34&pause=1000&color=3843FF&center=true&vCenter=true&width=600&lines=Evolve+Your+Routine.;Real-time+Cloud+Ecosystem.;Minimalist+Complexity.;Designed+for+the+1%25." alt="Typing SVG" />
+<!-- Dynamic Innovation Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=34&pause=1000&color=3843FF&center=true&vCenter=true&width=600&lines=Cloud-Native+Habit+Ecosystem.;Instant+Real-time+Sync.;Minimalist+Premium+UX.;Data+Driven+Consistency." alt="Typing SVG" />
 
 <p align="center">
-  <font size="4" color="#64748B">Arsitektur pelacak kebiasaan berbasis <b>Cloud-Native</b> yang dirancang untuk memberikan feedback instan tanpa hambatan visual.</font>
+  <font size="4" color="#64748B">Evolusi pelacak rutinitas berbasis <b>Cloud-Native</b>. Dibangun untuk presisi, didesain untuk kenyamanan.</font>
 </p>
 
 <br/>
 
-<!-- Badges Terorganisir -->
+<!-- Modern Tech Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Real--time-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=0F172A" />
+  <img src="https://img.shields.io/badge/Sync-Firebase_Real--time-FFCA28?style=for-the-badge&logo=firebase&logoColor=0F172A" />
   <img src="https://img.shields.io/badge/Logic-Strict_TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI-Aesthetic_Luxury-3843FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Motion-Reanimated_3-3843FF?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
 
 </div>
 
 ---
 
-## 🌌 Filosofi: "The Power of Less"
-**Routiner** menghilangkan kebisingan fungsional. Kami hanya menyisakan apa yang benar-benar Anda butuhkan untuk membangun disiplin baja. 
+## 💎 Filosofi: "Simplicity in Motion"
+**Routiner** membuang semua kerumitan teknis. Kami menghadirkan antarmuka yang bernapas, di mana setiap transisi adalah informasi, dan setiap data adalah motivasi. 
 
-- **Cloud-Driven:** Setiap perubahan disinkronkan secara atomik ke Firebase dalam milidetik.
-- **Micro-Interactions:** Respon visual yang halus pada setiap geseran jari untuk menciptakan kepuasan psikologis.
-- **Victory Analytics:** Menggunakan mesin render Victory untuk menyajikan data seakurat mungkin.
+- **Full Cloud Integration:** Tanpa jeda, tanpa muat ulang. Data Anda hidup di awan dan sinkron secara atomik.
+- **Gesture-First Design:** Interaksi haptik yang intuitif, memungkinkan Anda fokus pada rutinitas, bukan pada aplikasi.
+- **Victory Visualizer:** Analisis mendalam yang disajikan secara artistik melalui mesin grafik Victory.
 
 ---
 
-## 🎬 Cinematic Showcase
-Eksplorasi antarmuka yang menggabungkan transparansi *Glassmorphism* dengan navigasi *Native Stack*.
+## 🎬 Immersive Showcase
+Antarmuka yang menggabungkan keanggunan visual dengan kecepatan akses data Firestore.
 
 <div align="center">
   <br/>
   <img 
     src="https://raw.githubusercontent.com/Ranggis/Api-Image/main/RoutinerShowcase.gif" 
-    width="400" 
-    style="border-radius: 60px; border: 1px solid #E2E8F0; filter: drop-shadow(0 50px 100px rgba(56, 67, 255, 0.15));"
+    width="420" 
+    style="border-radius: 65px; border: 12px solid #0F172A; filter: drop-shadow(0 60px 100px rgba(56, 67, 255, 0.2));"
   />
   <br/><br/>
-  <p><i>"Desain bukan hanya tentang apa yang Anda lihat, tapi bagaimana Anda merasa berdaya karenanya."</i></p>
+  <p><i>"Setiap piksel memiliki tujuan, setiap gerakan memiliki makna."</i></p>
 </div>
 
 ---
 
-## 🚀 Fitur Inti Cloud
+## 🚀 Fitur Inovatif & Cloud Intelligence
 
-| Kapabilitas | Penjelasan Teknikal |
+| Inovasi | Deskripsi Arsitektur |
 | :--- | :--- |
-| **Instant Polling** | Sistem verifikasi email otomatis yang mendeteksi status user tanpa perlu memuat ulang halaman. |
-| **Global Leaderboard** | Agregasi data poin antar pengguna secara real-time melalui Firestore Listener. |
-| **Adaptive Habit Cards** | Kartu dinamis dengan sistem gestur (Swipeable) untuk efisiensi eksekusi harian. |
-| **Emotion Analysis** | Tracking korelasi *Mood-to-Habit* untuk pemahaman mendalam tentang produktivitas personal. |
+| **⚡ Instant Auth Flow** | Sistem verifikasi email otomatis dengan *Real-time Polling* tanpa interaksi manual. |
+| **🏆 Live Leaderboard** | Agregasi poin prestasi pengguna secara instan melalui sistem *Firestore Watcher*. |
+| **👆 Swipe-to-Track** | Mekanisme *Gesture Handler* premium untuk eksekusi habit (Done, Fail, Skip) yang memuaskan. |
+| **📈 Mood-Habit Link** | Visualisasi korelasi antara kondisi emosional dengan tingkat kedisiplinan harian. |
 
 ---
 
-## 🛠️ High-Performance Stack
-Ekosistem pengembangan yang menjamin kecepatan dan keandalan data.
+## 🛠️ The Elite Stack
+Ekosistem pengembangan yang menjamin performa tinggi dan skalabilitas sistem.
 
 <div align="center">
 
-| Core Framework | Cloud Provider | Animation & UI |
+| Core Framework | Cloud Infrastructure | UI & Motion |
 | :---: | :---: | :---: |
-| **React Native / Expo** | **Firebase Cloud Service** | **Moti / Reanimated 3** |
-| **TypeScript 5.x** | **Firestore Real-time DB** | **Lucide & Feather Icons** |
+| `React Native` `Expo 50+` | `Firebase Authentication` | `Moti` `Reanimated v3` |
+| `TypeScript 5` `ESLint` | `Cloud Firestore DB` | `Lucide` `Feather Icons` |
 
 </div>
 
 ---
 
-## 🏗️ Cuplikan Arsitektur: Real-time Listener
-Aplikasi ini menggunakan pola **Reactive Programming** untuk menjaga UI tetap sinkron dengan server secara permanen.
+## 🏗️ Kode Bersih: Reactive Real-time Sync
+Routiner menggunakan pola **On-Snapshot Listener** untuk memastikan UI selalu mencerminkan status database terbaru tanpa *delay*.
 
 ```typescript
-// Implementasi Real-time Sync tanpa Delay
-const monitorHabits = (userId: string) => {
+// Implementasi Live Listener untuk Sinkronisasi Tanpa Batas
+const syncHabitStream = (uid: string) => {
   return firestore()
-    .collection('users')
-    .doc(userId)
+    .doc(`users/${uid}`)
     .collection('habits')
-    .onSnapshot(snapshot => {
-      const liveData = snapshot.docs.map(doc => doc.data());
-      updateUIState(liveData); // UI Terupdate Secara Instan
+    .onSnapshot((liveDocs) => {
+       const updatedHabits = liveDocs.docs.map(h => h.data());
+       dispatchToUI(updatedHabits); // UI Ter-update secara Instan
     });
 };
 ```
