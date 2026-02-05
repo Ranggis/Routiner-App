@@ -57,7 +57,6 @@ Sistem cerdas yang menjaga data Anda tetap aman dan dapat diakses kapan saja.
 | Core System | Integration |
 | :--- | :--- |
 | **Cloud Service** | Firebase Firestore (Real-time) |
-| **Local Storage** | SQLite (Offline-First Capability) |
 | **Navigation** | Expo Router v3 (Strict Typing) |
 | **Visualization** | Victory Native (Industrial Charts) |
 
