@@ -109,7 +109,7 @@ Dikembangkan secara mandiri dengan visi menciptakan standar baru dalam aplikasi 
 <img src="https://raw.githubusercontent.com/Ranggis/Api-Image/main/ranggisss.jpg" width="130" style="border-radius: 65px; border: 3px solid #3843FF;" />
 <br/>
 <br/>
-<img src="https://img.shields.io/badge/Mochammad_Ranggis-Product_Engineer-3843FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/M_Ranggis_Refaldi-Product_Engineer-3843FF?style=for-the-badge" />
 <br/>
 <font size="3">Universitas Nusa Putra</font>
 <br/><br/>
