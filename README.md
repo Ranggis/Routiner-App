@@ -115,24 +115,15 @@ npx expo start
 ---
 
 ## 👤 The Architect
-Dikerjakan dengan dedikasi penuh untuk menciptakan standar baru dalam aplikasi habit tracker.
-<div align="center">
-<br/>
-<img src="https://raw.githubusercontent.com/Ranggis/Api-Image/main/ranggisss.jpg" width="160" style="border-radius: 80px; border: 4px solid #3843FF; padding: 5px; filter: grayscale(100%) contrast(110%);" />
-<br/>
-<br/>
-Mochammad Ranggis Refaldi
-<br/>
-Lead Product Engineer • UI/UX Specialist
-<br/>
-Universitas Nusa Putra Sukabumi
-<br/>
-![alt text](https://img.shields.io/badge/Architecture_Profile-000?style=for-the-badge&logo=github&logoColor=white)
 
-![alt text](https://img.shields.io/badge/Visual_Portfolio-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-</div>
-<br/>
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3843FF&height=100&section=footer" width="100%"/>
-<p><i>"Rutinitas yang teratur adalah kunci menuju kebebasan yang hakiki."</i></p>
-</div>
+Dikerjakan dengan dedikasi penuh untuk menciptakan standar baru dalam aplikasi habit tracker.
+
+<div align="center"> <br/> <img src="https://raw.githubusercontent.com/Ranggis/Api-Image/main/ranggisss.jpg" width="160" style="border-radius: 80px; border: 4px solid #3843FF; padding: 5px; filter: grayscale(100%) contrast(110%);" />
+
+<br/><br/>
+
+<strong>Mochammad Ranggis Refaldi</strong>
+Lead Product Engineer • UI/UX Specialist
+Universitas Nusa Putra Sukabumi
+
+<br/> <a href="https://github.com/Ranggis"> <img src="https://img.shields.io/badge/Architecture_Profile-000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.instagram.com/ranggisrf/"> <img src="https://img.shields.io/badge/Visual_Portfolio-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </div> <br/> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=3843FF&height=100&section=footer" width="100%"/> <p><i>"Rutinitas yang teratur adalah kunci menuju kebebasan yang hakiki."</i></p> </div>
