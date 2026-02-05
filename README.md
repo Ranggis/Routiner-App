@@ -71,22 +71,6 @@ Sistem cerdas yang menjaga data Anda tetap aman dan dapat diakses kapan saja.
 
 ---
 
-## 🏗️ Implementasi Kode (Clean Logic)
-Contoh penanganan sinkronisasi data yang efisien:
-
-```typescript
-// Core Sync Handler
-const synchronizeData = async (localData) => {
-  const connection = await checkConnectivity();
-  if (connection.isOnline) {
-    return await firebase.sync(localData); // Push to cloud
-  }
-  return await sqlite.queue(localData); // Store in local queue
-};
-```
-
----
-
 ## 📥 Panduan Instalasi
 Hanya butuh beberapa detik untuk memulai:
 Clone & Enter
