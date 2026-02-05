@@ -114,34 +114,43 @@ npx expo start
 
 ---
 
-## 👤 The Architect
-<div align="center"> <!-- Card Wrapper Clean & Single Border --> <div style=" width: 100%; max-width: 520px; background: #ffffff; border-radius: 16px; padding: 28px; margin-top: 25px; border: 1px solid #d1d5db; box-shadow: 0 4px 18px rgba(0,0,0,0.10); font-family: 'Inter', sans-serif; text-align: left; "> <!-- Header Accent Line --> <div style=" height: 6px; width: 60px; background: #3843FF; border-radius: 10px; margin-bottom: 25px; "></div> <table border="0" cellspacing="0" cellpadding="0" width="100%"> <tr> <!-- IMAGE --> <td width="150" align="center"> <img src="https://raw.githubusercontent.com/Ranggis/Api-Image/main/ranggisss.jpg" width="130" style="border-radius: 22px; filter: grayscale(100%) contrast(110%); border: 3px solid #3843FF;" /> </td>
-
-  <!-- TEXT CONTENT -->
-  <td style="padding-left: 25px;">
-    <div style="font-size: 26px; font-weight: 700; color: #1E293B;">
-      M. Ranggis Refaldi
-    </div>
-
-    <div style="font-size: 15px; font-weight: 600; color: #3843FF; margin-top: 3px;">
-      Lead Product Engineer & Designer
-    </div>
-
-    <div style="font-size: 13px; color: #94A3B8; margin-top: 5px;">
-      Universitas Nusa Putra • Sukabumi
-    </div>
-
-    <!-- Badges -->
-    <div style="margin-top: 14px;">
-      <a href="https://github.com/Ranggis">
-        <img src="https://img.shields.io/badge/REPO-000?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-
-      <a href="https://instagram.com/ranggiss" style="margin-left: 6px;">
-        <img src="https://img.shields.io/badge/SOCIAL-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-      </a>
-    </div>
-  </td>
+<div align="center">
+👤 The Architect
+<!-- 💳 Premium Business Card Wrapper -->
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td align="center">
+<div style="background: #ffffff; border-radius: 30px; padding: 40px; border: 1px solid #E2E8F0; width: 550px; box-shadow: 0 20px 40px rgba(0,0,0,0.05);">
+<!-- Card Header Line -->
+<div style="height: 6px; width: 60px; background: #3843FF; border-radius: 10px; margin-bottom: 25px;"></div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr>
+        <td width="150" align="center">
+          <img src="https://raw.githubusercontent.com/Ranggis/Api-Image/main/ranggisss.jpg" width="130" style="border-radius: 30px; filter: grayscale(100%) contrast(110%); border: 3px solid #3843FF;" />
+        </td>
+        <td style="padding-left: 30px;">
+          <font size="6" color="#1E293B" face="Inter"><strong>M. Ranggis Refaldi</strong></font><br/>
+          <font size="3" color="#3843FF" face="Inter"><strong>Lead Product Engineer & Designer</strong></font><br/>
+          <font size="2" color="#94A3B8" face="Inter">Universitas Nusa Putra • Sukabumi</font>
+          <br/><br/>
+          <div style="display: flex; gap: 8px;">
+            <a href="https://github.com/Ranggis">
+              <img src="https://img.shields.io/badge/REPO-000?style=for-the-badge&logo=github&logoColor=white" />
+            </a>
+            <a href="https://instagram.com/ranggiss">
+              <img src="https://img.shields.io/badge/SOCIAL-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+            </a>
+          </div>
+        </td>
+      </tr>
+    </table>
+  </div>
+</td>
 </tr>
-
-</table> </div> <!-- Footer --> <br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=3843FF&height=100&section=footer" width="100%"/> <p><i>"Code with passion, build with purpose, live with routine."</i></p> </div>
+</table>
+</div>
+<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3843FF&height=100&section=footer" width="100%"/>
+<p><i>"Code with passion, build with purpose, live with routine."</i></p>
+</div>
