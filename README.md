@@ -59,10 +59,10 @@ Antarmuka yang menggabungkan keanggunan visual dengan kecepatan akses data Fires
 
 | Inovasi | Deskripsi Arsitektur |
 | :--- | :--- |
-| **⚡ Instant Auth Flow** | Sistem verifikasi email otomatis dengan *Real-time Polling* tanpa interaksi manual. |
-| **🏆 Live Leaderboard** | Agregasi poin prestasi pengguna secara instan melalui sistem *Firestore Watcher*. |
-| **👆 Swipe-to-Track** | Mekanisme *Gesture Handler* premium untuk eksekusi habit (Done, Fail, Skip) yang memuaskan. |
-| **📈 Mood-Habit Link** | Visualisasi korelasi antara kondisi emosional dengan tingkat kedisiplinan harian. |
+| **Instant Auth Flow** | Sistem verifikasi email otomatis dengan *Real-time Polling* tanpa interaksi manual. |
+| **Live Leaderboard** | Agregasi poin prestasi pengguna secara instan melalui sistem *Firestore Watcher*. |
+| **Swipe-to-Track** | Mekanisme *Gesture Handler* premium untuk eksekusi habit (Done, Fail, Skip) yang memuaskan. |
+| **Mood-Habit Link** | Visualisasi korelasi antara kondisi emosional dengan tingkat kedisiplinan harian. |
 
 ---
 
