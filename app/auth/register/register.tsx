@@ -17,7 +17,9 @@ import { useRouter } from "expo-router";
 
 // Firebase
 import { createUserWithEmailAndPassword, sendEmailVerification } from "firebase/auth";
-import { auth } from "../../../firebase/config";
+import { auth, db } from "../../../firebase/config"; // Tambahkan db di sini
+// Tambahkan fungsi firestore
+import { doc, setDoc, serverTimestamp } from "firebase/firestore";
 
 export default function Register() {
   const router = useRouter();
@@ -43,14 +45,30 @@ export default function Register() {
     setLoading(true);
 
     try {
+      // 1. Buat user di Firebase Auth
       const result = await createUserWithEmailAndPassword(auth, email, pass);
-      await sendEmailVerification(result.user);
+      const user = result.user;
+
+      // 2. BUAT DOKUMEN DI FIRESTORE (Ini yang kurang!)
+      await setDoc(doc(db, "users", user.uid), {
+        uid: user.uid,
+        username: username, // field username
+        displayName: username, // field display name awal disamakan
+        email: email,
+        photoURL: "https://via.placeholder.com/150", // foto default
+        emoji: "👋", // emoji default
+        createdAt: serverTimestamp(),
+      });
+
+      // 3. Kirim verifikasi email
+      await sendEmailVerification(user);
 
       router.push({
         pathname: "../register/verify",
         params: { email, username },
       });
     } catch (error: any) {
+      console.error("Register Error:", error);
       let msg = error.message;
       if (error.code === 'auth/email-already-in-use') msg = "Email sudah terdaftar.";
       Alert.alert("Registration Error", msg);

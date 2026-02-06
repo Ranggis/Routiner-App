@@ -20,7 +20,7 @@ import * as ImagePicker from "expo-image-picker";
 
 // FIREBASE
 import { db, auth } from "../../firebase/config";
-import { doc, getDoc, updateDoc } from "firebase/firestore";
+import { doc, getDoc, setDoc } from "firebase/firestore"; // Ganti updateDoc jadi setDoc 
 
 const { width } = Dimensions.get("window");
 
@@ -136,10 +136,12 @@ export default function EditProfileScreen() {
         if (uploadedUrl) finalPhotoUrl = uploadedUrl;
       }
 
-      await updateDoc(doc(db, "users", user!.uid), {
+      // --- UBAH DI SINI ---
+      // Gunakan setDoc + merge: true agar jika doc belum ada, dia akan dibuat
+      await setDoc(doc(db, "users", user!.uid), {
         displayName: displayName,
         photoURL: finalPhotoUrl
-      });
+      }, { merge: true }); 
 
       setLoading(false);
       showAlert('success', 'Profile Updated! 🎉', 'Your profile changes have been saved successfully.', () => {
@@ -147,6 +149,7 @@ export default function EditProfileScreen() {
         router.back();
       });
     } catch (error) {
+      console.error(error); // Tambahkan log untuk debugging
       setLoading(false);
       showAlert('error', 'Update Failed', 'Something went wrong while saving your profile.');
     }

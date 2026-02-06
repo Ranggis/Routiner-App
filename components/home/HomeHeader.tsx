@@ -13,7 +13,7 @@ import { useRouter } from "expo-router";
 
 // FIREBASE
 import { db, auth } from "../../firebase/config"; 
-import { doc, onSnapshot, updateDoc, collection, query, where } from "firebase/firestore";
+import { doc, onSnapshot, setDoc, collection, query, where } from "firebase/firestore";
 
 interface Props {
   onCalendarPress?: () => void;
@@ -69,8 +69,13 @@ export default function HomeHeader({
     if (!user) return;
     setShowEmojiModal(false);
     setUserData(prev => ({ ...prev, emoji: newEmoji }));
+    
     try {
-      await updateDoc(doc(db, "users", user.uid), { emoji: newEmoji });
+      // --- UBAH DI SINI ---
+      // Gunakan setDoc + merge: true
+      await setDoc(doc(db, "users", user.uid), { 
+        emoji: newEmoji 
+      }, { merge: true });
     } catch (error) {
       console.error("Gagal update emoji:", error);
     }
